@@ -6,3 +6,8 @@ function tailsNeverFails(){
   }
   return `You got ${count} tails in a row!`
 }
+function printBadges(badges){
+  for(let i = 0; i < badges.length; i++){
+    
+  }
+}
